@@ -1,5 +1,5 @@
 # robkohr-mono-5x8-font-for-playdate
-Font for the playdate
+Example
 
 ![screenshot|690x250](https://github.com/RobKohr/robkohr-mono-5x8-font-for-playdate/blob/main/font-screenshot.png?raw=true)
 
