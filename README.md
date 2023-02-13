@@ -12,6 +12,8 @@ If you see anything that could be improved, feel free to create a pull request.
 
 This is free for you to use. You are welcome to credit me, but it is totally not required.
 
+You can check out my games here: [![https://neverall.itch.io/](https://neverall.itch.io/)]
+
 #### Additional characters
 
 ![screenshot2|690x250](./font-screenshot%202.png)
