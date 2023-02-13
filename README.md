@@ -22,6 +22,10 @@ For a list of characters, go to ./test-characters-for-caps-app.txt. You can load
 
 The best way to use them is just to copy the ascii characters from that text file and paste them into your code. Some characters are double wide (like the star and A & B buttons) and take two ascii characters to show.
 
+#### Style tips
+
+The character images are 5x8, but for the most part, the right most line of pixels and the bottom most line of pixels are blank to give nice spacing. This doesn't need to be true on the special characters, but if possible, the actual drawn characters should be 4x7 pixels.
+
 #### Installing with toybox.py
 
 You can add it to your **Playdate** project by installing [**toybox.py**](https://toyboxpy.io), going to your project folder in a Terminal window and typing:
