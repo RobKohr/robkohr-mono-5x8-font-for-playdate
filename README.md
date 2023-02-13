@@ -7,7 +7,7 @@ Example
 ![screenshot|690x250](https://github.com/RobKohr/robkohr-mono-5x8-font-for-playdate/blob/main/font-screenshot.png?raw=true)
 
 Additional characters:
-![screenshot2|690x250](https://github.com/RobKohr/robkohr-mono-5x8-font-for-playdate/blob/main/font-screenshot2.png?raw=true)
+![screenshot2|690x250](./font-screenshot%202.png)
 
 I wanted a fairly small font that was also readable, and I also wanted monospacing, but without it looking too boring. After fiddling with sizes, I found I could get something reasonable looking with with 5x8 pixels.
 
