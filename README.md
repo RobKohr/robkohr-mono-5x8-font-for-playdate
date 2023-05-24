@@ -60,3 +60,9 @@ In case you need to access the Playdate font directly, you can use `getFont`:
 ```lua
 RobkohrFont.getFont()
 ```
+
+## Update
+
+It should be noted that on both of the games I made that used the 5x8 font, it ended up too small to be easily readable on the physical device, even though fine in the simulator. I recommend just using the 10x16.
+
+I am thinking of making 8x12 font next to create a bit of an in between.
